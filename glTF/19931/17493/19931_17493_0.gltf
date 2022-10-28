@@ -97,7 +97,11 @@
                 74,
                 75,
                 76,
-                77
+                77,
+                78,
+                79,
+                80,
+                81
             ]
         },
         {
@@ -110,146 +114,146 @@
     "nodes" : [
         {
             "mesh" : 0,
-            "name" : "Bath_878091f2-565b-11ed-8924-acde48001122"
+            "name" : "Bath_49200fe8-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 1,
-            "name" : "Bed Poliform Java N240218_8784c830-565b-11ed-8924-acde48001122"
+            "name" : "Bed Poliform Java N240218_49269d90-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 2,
-            "name" : "Bed childrens N120518_87881d46-565b-11ed-8924-acde48001122"
+            "name" : "Bed childrens N120518_492c29ae-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 3,
-            "name" : "Chest_87899de2-565b-11ed-8924-acde48001122"
+            "name" : "Chest_492ddc72-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 4,
-            "name" : "TV stand_878b4e08-565b-11ed-8924-acde48001122"
+            "name" : "TV stand_492fc6e0-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 5,
-            "name" : "Sofa_878e21f0-565b-11ed-8924-acde48001122"
+            "name" : "Sofa_493439a0-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 6,
-            "name" : "Toilets unit_878fd16c-565b-11ed-8924-acde48001122"
+            "name" : "Toilets unit_49361360-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 7,
-            "name" : "Washbasin_8791a096-565b-11ed-8924-acde48001122"
+            "name" : "Washbasin_49382114-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 8,
-            "name" : "Toilets unit_8793644e-565b-11ed-8924-acde48001122"
+            "name" : "Toilets unit_493a0204-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 9,
-            "name" : "Washbasin_87954336-565b-11ed-8924-acde48001122"
+            "name" : "Washbasin_493c07e8-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 10,
-            "name" : "Bed childrens N120518_879914a2-565b-11ed-8924-acde48001122"
+            "name" : "Bed childrens N120518_494006c2-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 11,
-            "name" : "Red drawers_879b09c4-565b-11ed-8924-acde48001122"
+            "name" : "Red drawers_49423550-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 12,
-            "name" : "Chair_879d4b12-565b-11ed-8924-acde48001122"
+            "name" : "Chair_4944989a-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 13,
-            "name" : "Chair_879f946c-565b-11ed-8924-acde48001122"
+            "name" : "Chair_49471606-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 14,
-            "name" : "Chair_87a1c12e-565b-11ed-8924-acde48001122"
+            "name" : "Chair_4949c0ea-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 15,
-            "name" : "Chair_87a40402-565b-11ed-8924-acde48001122"
+            "name" : "Chair_494c31d6-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 16,
-            "name" : "Table_87a61a76-565b-11ed-8924-acde48001122"
+            "name" : "Table_494e7fcc-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 17,
-            "name" : "Red cabinet_87a83144-565b-11ed-8924-acde48001122"
+            "name" : "Red cabinet_4950e398-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 18,
-            "name" : "Red cabinet with basin_87aabac2-565b-11ed-8924-acde48001122"
+            "name" : "Red cabinet with basin_49540b72-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 19,
-            "name" : "Red cabinet_87ad1d80-565b-11ed-8924-acde48001122"
+            "name" : "Red cabinet_4956a3a0-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 20,
-            "name" : "Quadruple French window_87af4dbc-565b-11ed-8924-acde48001122"
+            "name" : "Quadruple French window_4958fe84-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 21,
-            "name" : "Double French window_87b162e6-565b-11ed-8924-acde48001122"
+            "name" : "Double French window_495b7fce-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 22,
-            "name" : "Door_87b39138-565b-11ed-8924-acde48001122"
+            "name" : "Door_495de1ba-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 23,
-            "name" : "Window_87b5da4c-565b-11ed-8924-acde48001122"
+            "name" : "Window_49605148-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 24,
-            "name" : "Double French window_87b820cc-565b-11ed-8924-acde48001122"
+            "name" : "Double French window_4962d3c8-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 25,
-            "name" : "Double French window_87ba55cc-565b-11ed-8924-acde48001122"
+            "name" : "Double French window_49662fbe-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 26,
-            "name" : "Double French window_87bcf8d6-565b-11ed-8924-acde48001122"
+            "name" : "Double French window_49698df8-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 27,
-            "name" : "Slider pocket door_87bf6f1c-565b-11ed-8924-acde48001122"
+            "name" : "Slider pocket door_496c6370-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 28,
-            "name" : "\ud604\uad00\ubb38_87c1ec4c-565b-11ed-8924-acde48001122"
+            "name" : "\ud604\uad00\ubb38_49704d50-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 29,
-            "name" : "\uc5f4\ub9b0 \ubb38_87c4656c-565b-11ed-8924-acde48001122"
+            "name" : "\uc5f4\ub9b0 \ubb38_49756dda-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 30,
-            "name" : "\uc5f4\ub9b0 \ubb38_87c6ca82-565b-11ed-8924-acde48001122"
+            "name" : "\uc5f4\ub9b0 \ubb38_497911c4-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 31,
-            "name" : "\uc5f4\ub9b0 \ubb38_87c9640e-565b-11ed-8924-acde48001122"
+            "name" : "\uc5f4\ub9b0 \ubb38_497d018a-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 32,
-            "name" : "\uc5f4\ub9b0 \ubb38_87cbe486-565b-11ed-8924-acde48001122"
+            "name" : "\uc5f4\ub9b0 \ubb38_49807d92-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 33,
-            "name" : "\uc5f4\ub9b0 \ubb38_87ce840c-565b-11ed-8924-acde48001122"
+            "name" : "\uc5f4\ub9b0 \ubb38_4984340a-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 34,
-            "name" : "\uc5f4\ub9b0 \ubb38_87d11c8a-565b-11ed-8924-acde48001122"
+            "name" : "\uc5f4\ub9b0 \ubb38_4987f360-565e-11ed-b4a3-acde48001122"
         },
         {
-            "name" : "Area.Floor_Balcony_87e09d22-565b-11ed-8924-acde48001122",
+            "name" : "Area.Floor_Balcony_499c2560-565e-11ed-b4a3-acde48001122",
             "rotation" : [
                 -0.7071068286895752,
                 0,
@@ -263,7 +267,7 @@
             ]
         },
         {
-            "name" : "Area.Floor_Balcony_87e65dde-565b-11ed-8924-acde48001122",
+            "name" : "Area.Floor_Balcony_49a2804a-565e-11ed-b4a3-acde48001122",
             "rotation" : [
                 -0.7071068286895752,
                 0,
@@ -277,7 +281,7 @@
             ]
         },
         {
-            "name" : "Area.Floor_Balcony_87e881f4-565b-11ed-8924-acde48001122",
+            "name" : "Area.Floor_Balcony_49a5f9be-565e-11ed-b4a3-acde48001122",
             "rotation" : [
                 -0.7071068286895752,
                 0,
@@ -291,7 +295,7 @@
             ]
         },
         {
-            "name" : "Area.Floor_Bathroom_87eda418-565b-11ed-8924-acde48001122",
+            "name" : "Area.Floor_Bathroom_49abc272-565e-11ed-b4a3-acde48001122",
             "rotation" : [
                 -0.7071068286895752,
                 0,
@@ -305,7 +309,7 @@
             ]
         },
         {
-            "name" : "Area.Floor_Bathroom_87f2b066-565b-11ed-8924-acde48001122",
+            "name" : "Area.Floor_Bathroom_49b1a85e-565e-11ed-b4a3-acde48001122",
             "rotation" : [
                 -0.7071068286895752,
                 0,
@@ -319,7 +323,7 @@
             ]
         },
         {
-            "name" : "Area.Floor_Gate_87f7db86-565b-11ed-8924-acde48001122",
+            "name" : "Area.Floor_Gate_49b788fa-565e-11ed-b4a3-acde48001122",
             "rotation" : [
                 -0.7071068286895752,
                 0,
@@ -333,7 +337,7 @@
             ]
         },
         {
-            "name" : "Area.Floor_Livingroom_8800c2c8-565b-11ed-8924-acde48001122",
+            "name" : "Area.Floor_Livingroom_49c0de32-565e-11ed-b4a3-acde48001122",
             "rotation" : [
                 -0.7071068286895752,
                 0,
@@ -347,7 +351,7 @@
             ]
         },
         {
-            "name" : "Area.Floor_Room_88097f80-565b-11ed-8924-acde48001122",
+            "name" : "Area.Floor_Room_49cae30a-565e-11ed-b4a3-acde48001122",
             "rotation" : [
                 -0.7071068286895752,
                 0,
@@ -361,7 +365,7 @@
             ]
         },
         {
-            "name" : "Area.Floor_Room_880f794e-565b-11ed-8924-acde48001122",
+            "name" : "Area.Floor_Room_49d17076-565e-11ed-b4a3-acde48001122",
             "rotation" : [
                 -0.7071068286895752,
                 0,
@@ -375,7 +379,7 @@
             ]
         },
         {
-            "name" : "Area.Floor_Room_88122db0-565b-11ed-8924-acde48001122",
+            "name" : "Area.Floor_Room_49d4c80c-565e-11ed-b4a3-acde48001122",
             "rotation" : [
                 -0.7071068286895752,
                 0,
@@ -389,7 +393,7 @@
             ]
         },
         {
-            "name" : "Area.Floor_Room_881501f2-565b-11ed-8924-acde48001122",
+            "name" : "Area.Floor_Room_49d85800-565e-11ed-b4a3-acde48001122",
             "rotation" : [
                 -0.7071068286895752,
                 0,
@@ -403,7 +407,7 @@
             ]
         },
         {
-            "name" : "Area.Floor_Room_88183890-565b-11ed-8924-acde48001122",
+            "name" : "Area.Floor_Room_49dc0158-565e-11ed-b4a3-acde48001122",
             "rotation" : [
                 -0.7071068286895752,
                 0,
@@ -417,7 +421,7 @@
             ]
         },
         {
-            "name" : "Area.Floor_Room_881b63e4-565b-11ed-8924-acde48001122",
+            "name" : "Area.Floor_Room_49dfd2a6-565e-11ed-b4a3-acde48001122",
             "rotation" : [
                 -0.7071068286895752,
                 0,
@@ -447,119 +451,135 @@
         },
         {
             "mesh" : 35,
-            "name" : "Edge_Top_87d445f4-565b-11ed-8924-acde48001122"
+            "name" : "Edge_Top_498b6900-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 36,
-            "name" : "Edge_Bottom_87d73372-565b-11ed-8924-acde48001122"
+            "name" : "Edge_Bottom_498eb1c8-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 37,
-            "name" : "Wall_87db676c-565b-11ed-8924-acde48001122"
+            "name" : "Wall_4992a97c-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 38,
-            "name" : "Floor_Balcony_87e09d22-565b-11ed-8924-acde48001122"
+            "name" : "Wall_Deleted_4998a908-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 39,
-            "name" : "Floor_Balcony_Roof_87e329f2-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Balcony_499c2560-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 40,
-            "name" : "Floor_Balcony_87e65dde-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Balcony_Roof_499f2e86-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 41,
-            "name" : "Floor_Balcony_Roof_87e6690a-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Balcony_49a2804a-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 42,
-            "name" : "Floor_Balcony_87e881f4-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Balcony_Roof_49a29440-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 43,
-            "name" : "Floor_Balcony_Roof_87e88f5a-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Balcony_49a5f9be-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 44,
-            "name" : "Floor_Bathroom_87eda418-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Balcony_Roof_49a608be-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 45,
-            "name" : "Floor_Bathroom_Roof_87f051cc-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Bathroom_49abc272-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 46,
-            "name" : "Floor_Bathroom_87f2b066-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Bathroom_Roof_49aeedf8-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 47,
-            "name" : "Floor_Bathroom_Roof_87f2bc6e-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Bathroom_49b1a85e-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 48,
-            "name" : "Floor_Gate_87f7db86-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Bathroom_Roof_49b1b556-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 49,
-            "name" : "Floor_Gate_Roof_87fafa1e-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Gate_49b788fa-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 50,
-            "name" : "Floor_Livingroom_8800c2c8-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Gate_Roof_49ba8776-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 51,
-            "name" : "Floor_Livingroom_Roof_8803b582-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Livingroom_49c0de32-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 52,
-            "name" : "Floor_Room_88097f80-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Livingroom_Roof_49c45f12-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 53,
-            "name" : "Floor_Room_Roof_880c930a-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Room_49cae30a-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 54,
-            "name" : "Floor_Room_880f794e-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Room_Roof_49ce2e8e-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 55,
-            "name" : "Floor_Room_Roof_880f843e-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Room_49d17076-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 56,
-            "name" : "Floor_Room_88122db0-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Room_Roof_49d17cd8-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 57,
-            "name" : "Floor_Room_Roof_8812367a-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Room_49d4c80c-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 58,
-            "name" : "Floor_Room_881501f2-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Room_Roof_49d4d70c-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 59,
-            "name" : "Floor_Room_Roof_88150c74-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Room_49d85800-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 60,
-            "name" : "Floor_Room_88183890-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Room_Roof_49d86d18-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 61,
-            "name" : "Floor_Room_Roof_88184bbe-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Room_49dc0158-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 62,
-            "name" : "Floor_Room_881b63e4-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Room_Roof_49dc0e28-565e-11ed-b4a3-acde48001122"
         },
         {
             "mesh" : 63,
-            "name" : "Floor_Room_Roof_881b73b6-565b-11ed-8924-acde48001122"
+            "name" : "Floor_Room_49dfd2a6-565e-11ed-b4a3-acde48001122"
+        },
+        {
+            "mesh" : 64,
+            "name" : "Floor_Room_Roof_49dff88a-565e-11ed-b4a3-acde48001122"
+        },
+        {
+            "mesh" : 65,
+            "name" : "Wall_Balcony_49e7b37c-565e-11ed-b4a3-acde48001122"
+        },
+        {
+            "mesh" : 66,
+            "name" : "Wall_Gate_49ec150c-565e-11ed-b4a3-acde48001122"
+        },
+        {
+            "mesh" : 67,
+            "name" : "Wall_Bathroom_49f037ae-565e-11ed-b4a3-acde48001122"
         }
     ],
     "cameras" : [
@@ -4785,6 +4805,153 @@
                 ],
                 "roughnessFactor" : 0.858578622341156
             }
+        },
+        {
+            "extensions" : {
+                "KHR_materials_specular" : {
+                    "specularColorTexture" : {
+                        "extensions" : {
+                            "KHR_texture_transform" : {
+                                "offset" : [
+                                    0,
+                                    -29
+                                ],
+                                "scale" : [
+                                    30,
+                                    30
+                                ]
+                            }
+                        },
+                        "index" : 117
+                    },
+                    "specularColorFactor" : [
+                        2.4075880208803766,
+                        2.402243524265607,
+                        2.669850266298202
+                    ]
+                },
+                "KHR_materials_ior" : {
+                    "ior" : 1.4500000476837158
+                }
+            },
+            "name" : "Wall_Balcony",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "extensions" : {
+                        "KHR_texture_transform" : {
+                            "offset" : [
+                                0,
+                                -29
+                            ],
+                            "scale" : [
+                                30,
+                                30
+                            ]
+                        }
+                    },
+                    "index" : 118
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "extensions" : {
+                "KHR_materials_specular" : {
+                    "specularColorTexture" : {
+                        "extensions" : {
+                            "KHR_texture_transform" : {
+                                "offset" : [
+                                    0,
+                                    -29
+                                ],
+                                "scale" : [
+                                    30,
+                                    30
+                                ]
+                            }
+                        },
+                        "index" : 119
+                    },
+                    "specularColorFactor" : [
+                        2.4075880208803766,
+                        2.402243524265607,
+                        2.669850266298202
+                    ]
+                },
+                "KHR_materials_ior" : {
+                    "ior" : 1.4500000476837158
+                }
+            },
+            "name" : "Wall_Gate",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "extensions" : {
+                        "KHR_texture_transform" : {
+                            "offset" : [
+                                0,
+                                -29
+                            ],
+                            "scale" : [
+                                30,
+                                30
+                            ]
+                        }
+                    },
+                    "index" : 120
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "extensions" : {
+                "KHR_materials_specular" : {
+                    "specularColorTexture" : {
+                        "extensions" : {
+                            "KHR_texture_transform" : {
+                                "offset" : [
+                                    0,
+                                    -8
+                                ],
+                                "scale" : [
+                                    9,
+                                    9
+                                ]
+                            }
+                        },
+                        "index" : 121
+                    },
+                    "specularColorFactor" : [
+                        2.4592630783585987,
+                        2.4013748244826183,
+                        2.388215422075227
+                    ]
+                },
+                "KHR_materials_ior" : {
+                    "ior" : 1.4500000476837158
+                }
+            },
+            "name" : "Wall_Bathroom",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "extensions" : {
+                        "KHR_texture_transform" : {
+                            "offset" : [
+                                0,
+                                -8
+                            ],
+                            "scale" : [
+                                9,
+                                9
+                            ]
+                        }
+                    },
+                    "index" : 122
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
         }
     ],
     "meshes" : [
@@ -7333,7 +7500,7 @@
             ]
         },
         {
-            "name" : "Floor_Balcony",
+            "name" : "Wall_Deleted",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7352,13 +7519,12 @@
                         }
                     },
                     "indices" : 452,
-                    "material" : 108,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Balcony_Roof",
+            "name" : "Floor_Balcony",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7377,13 +7543,13 @@
                         }
                     },
                     "indices" : 456,
-                    "material" : 109,
+                    "material" : 108,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Balcony.001",
+            "name" : "Floor_Balcony_Roof",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7402,13 +7568,13 @@
                         }
                     },
                     "indices" : 460,
-                    "material" : 108,
+                    "material" : 109,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Balcony_Roof.001",
+            "name" : "Floor_Balcony.001",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7427,13 +7593,13 @@
                         }
                     },
                     "indices" : 464,
-                    "material" : 109,
+                    "material" : 108,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Balcony.002",
+            "name" : "Floor_Balcony_Roof.001",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7452,13 +7618,13 @@
                         }
                     },
                     "indices" : 468,
-                    "material" : 108,
+                    "material" : 109,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Balcony_Roof.002",
+            "name" : "Floor_Balcony.002",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7477,13 +7643,13 @@
                         }
                     },
                     "indices" : 472,
-                    "material" : 109,
+                    "material" : 108,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Bathroom",
+            "name" : "Floor_Balcony_Roof.002",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7502,13 +7668,13 @@
                         }
                     },
                     "indices" : 476,
-                    "material" : 110,
+                    "material" : 109,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Bathroom_Roof",
+            "name" : "Floor_Bathroom",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7527,13 +7693,13 @@
                         }
                     },
                     "indices" : 480,
-                    "material" : 111,
+                    "material" : 110,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Bathroom.001",
+            "name" : "Floor_Bathroom_Roof",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7552,13 +7718,13 @@
                         }
                     },
                     "indices" : 484,
-                    "material" : 110,
+                    "material" : 111,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Bathroom_Roof.001",
+            "name" : "Floor_Bathroom.001",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7577,13 +7743,13 @@
                         }
                     },
                     "indices" : 488,
-                    "material" : 111,
+                    "material" : 110,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Gate",
+            "name" : "Floor_Bathroom_Roof.001",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7602,13 +7768,13 @@
                         }
                     },
                     "indices" : 492,
-                    "material" : 112,
+                    "material" : 111,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Gate_Roof",
+            "name" : "Floor_Gate",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7627,13 +7793,13 @@
                         }
                     },
                     "indices" : 496,
-                    "material" : 113,
+                    "material" : 112,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Livingroom",
+            "name" : "Floor_Gate_Roof",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7652,13 +7818,13 @@
                         }
                     },
                     "indices" : 500,
-                    "material" : 114,
+                    "material" : 113,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Livingroom_Roof",
+            "name" : "Floor_Livingroom",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7677,13 +7843,13 @@
                         }
                     },
                     "indices" : 504,
-                    "material" : 115,
+                    "material" : 114,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Room",
+            "name" : "Floor_Livingroom_Roof",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7702,13 +7868,13 @@
                         }
                     },
                     "indices" : 508,
-                    "material" : 116,
+                    "material" : 115,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Room_Roof",
+            "name" : "Floor_Room",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7727,13 +7893,13 @@
                         }
                     },
                     "indices" : 512,
-                    "material" : 117,
+                    "material" : 116,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Room.001",
+            "name" : "Floor_Room_Roof",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7752,13 +7918,13 @@
                         }
                     },
                     "indices" : 516,
-                    "material" : 116,
+                    "material" : 117,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Room_Roof.001",
+            "name" : "Floor_Room.001",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7777,13 +7943,13 @@
                         }
                     },
                     "indices" : 520,
-                    "material" : 117,
+                    "material" : 116,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Room.002",
+            "name" : "Floor_Room_Roof.001",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7801,20 +7967,20 @@
                             }
                         }
                     },
-                    "indices" : 492,
-                    "material" : 116,
+                    "indices" : 524,
+                    "material" : 117,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Room_Roof.002",
+            "name" : "Floor_Room.002",
             "primitives" : [
                 {
                     "attributes" : {
-                        "POSITION" : 524,
-                        "NORMAL" : 525,
-                        "TEXCOORD_0" : 526
+                        "POSITION" : 525,
+                        "NORMAL" : 526,
+                        "TEXCOORD_0" : 527
                     },
                     "extensions" : {
                         "KHR_draco_mesh_compression" : {
@@ -7826,14 +7992,14 @@
                             }
                         }
                     },
-                    "indices" : 527,
-                    "material" : 117,
+                    "indices" : 496,
+                    "material" : 116,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Room.003",
+            "name" : "Floor_Room_Roof.002",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7852,13 +8018,13 @@
                         }
                     },
                     "indices" : 531,
-                    "material" : 116,
+                    "material" : 117,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Room_Roof.003",
+            "name" : "Floor_Room.003",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7877,13 +8043,13 @@
                         }
                     },
                     "indices" : 535,
-                    "material" : 117,
+                    "material" : 116,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Room.004",
+            "name" : "Floor_Room_Roof.003",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7902,13 +8068,13 @@
                         }
                     },
                     "indices" : 539,
-                    "material" : 116,
+                    "material" : 117,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Room_Roof.004",
+            "name" : "Floor_Room.004",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7927,13 +8093,13 @@
                         }
                     },
                     "indices" : 543,
-                    "material" : 117,
+                    "material" : 116,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Room.005",
+            "name" : "Floor_Room_Roof.004",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7952,13 +8118,13 @@
                         }
                     },
                     "indices" : 547,
-                    "material" : 116,
+                    "material" : 117,
                     "mode" : 4
                 }
             ]
         },
         {
-            "name" : "Floor_Room_Roof.005",
+            "name" : "Floor_Room.005",
             "primitives" : [
                 {
                     "attributes" : {
@@ -7977,7 +8143,107 @@
                         }
                     },
                     "indices" : 551,
+                    "material" : 116,
+                    "mode" : 4
+                }
+            ]
+        },
+        {
+            "name" : "Floor_Room_Roof.005",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 552,
+                        "NORMAL" : 553,
+                        "TEXCOORD_0" : 554
+                    },
+                    "extensions" : {
+                        "KHR_draco_mesh_compression" : {
+                            "bufferView" : 144,
+                            "attributes" : {
+                                "POSITION" : 0,
+                                "NORMAL" : 1,
+                                "TEXCOORD_0" : 2
+                            }
+                        }
+                    },
+                    "indices" : 555,
                     "material" : 117,
+                    "mode" : 4
+                }
+            ]
+        },
+        {
+            "name" : "Wall_Balcony",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 556,
+                        "NORMAL" : 557,
+                        "TEXCOORD_0" : 558
+                    },
+                    "extensions" : {
+                        "KHR_draco_mesh_compression" : {
+                            "bufferView" : 145,
+                            "attributes" : {
+                                "POSITION" : 0,
+                                "NORMAL" : 1,
+                                "TEXCOORD_0" : 2
+                            }
+                        }
+                    },
+                    "indices" : 559,
+                    "material" : 118,
+                    "mode" : 4
+                }
+            ]
+        },
+        {
+            "name" : "Wall_Gate",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 560,
+                        "NORMAL" : 561,
+                        "TEXCOORD_0" : 562
+                    },
+                    "extensions" : {
+                        "KHR_draco_mesh_compression" : {
+                            "bufferView" : 146,
+                            "attributes" : {
+                                "POSITION" : 0,
+                                "NORMAL" : 1,
+                                "TEXCOORD_0" : 2
+                            }
+                        }
+                    },
+                    "indices" : 563,
+                    "material" : 119,
+                    "mode" : 4
+                }
+            ]
+        },
+        {
+            "name" : "Wall_Bathroom",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 564,
+                        "NORMAL" : 565,
+                        "TEXCOORD_0" : 566
+                    },
+                    "extensions" : {
+                        "KHR_draco_mesh_compression" : {
+                            "bufferView" : 147,
+                            "attributes" : {
+                                "POSITION" : 0,
+                                "NORMAL" : 1,
+                                "TEXCOORD_0" : 2
+                            }
+                        }
+                    },
+                    "indices" : 567,
+                    "material" : 120,
                     "mode" : 4
                 }
             ]
@@ -8451,128 +8717,172 @@
         {
             "sampler" : 0,
             "source" : 23
+        },
+        {
+            "sampler" : 0,
+            "source" : 24
+        },
+        {
+            "sampler" : 0,
+            "source" : 25
+        },
+        {
+            "sampler" : 0,
+            "source" : 24
+        },
+        {
+            "sampler" : 0,
+            "source" : 25
+        },
+        {
+            "sampler" : 0,
+            "source" : 26
+        },
+        {
+            "sampler" : 0,
+            "source" : 27
         }
     ],
     "images" : [
         {
             "mimeType" : "image/jpeg",
             "name" : "fabric_N",
-            "uri" : "../../../textures/fabric_N.jpg"
+            "uri" : "../../../../outputs/textures/fabric_N.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "Image",
-            "uri" : "../../../textures/Image.jpg"
+            "uri" : "../../../../outputs/textures/Image.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "fabric_D",
-            "uri" : "../../../textures/fabric_D.jpg"
+            "uri" : "../../../../outputs/textures/fabric_D.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "wood_table_chair_N",
-            "uri" : "../../../textures/wood_table_chair_N.jpg"
+            "uri" : "../../../../outputs/textures/wood_table_chair_N.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "wood_table_chair_D",
-            "uri" : "../../../textures/wood_table_chair_D.jpg"
+            "uri" : "../../../../outputs/textures/wood_table_chair_D.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "chest_N",
-            "uri" : "../../../textures/chest_N.jpg"
+            "uri" : "../../../../outputs/textures/chest_N.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "mable_texture_01_D",
-            "uri" : "../../../textures/mable_texture_01_D.jpg"
+            "uri" : "../../../../outputs/textures/mable_texture_01_D.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "mable_texture_02_D",
-            "uri" : "../../../textures/mable_texture_02_D.jpg"
+            "uri" : "../../../../outputs/textures/mable_texture_02_D.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "Image",
-            "uri" : "../../../textures/Image-1.jpg"
+            "uri" : "../../../../outputs/textures/Image-1.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "door_close_N",
-            "uri" : "../../../textures/door_close_N.jpg"
+            "uri" : "../../../../outputs/textures/door_close_N.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "door_close_D",
-            "uri" : "../../../textures/door_close_D.jpg"
+            "uri" : "../../../../outputs/textures/door_close_D.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "Image",
-            "uri" : "../../../textures/Image-2.jpg"
+            "uri" : "../../../../outputs/textures/Image-2.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "wall_paper_N",
-            "uri" : "../../../textures/wall_paper_N.jpg"
+            "uri" : "../../../../outputs/textures/wall_paper_N.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "wall_paper_D",
-            "uri" : "../../../textures/wall_paper_D.jpg"
+            "uri" : "../../../../outputs/textures/wall_paper_D.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "Image",
-            "uri" : "../../../textures/Image-3.jpg"
+            "uri" : "../../../../outputs/textures/Image-3.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "floor_balcony_N",
-            "uri" : "../../../textures/floor_balcony_N.jpg"
+            "uri" : "../../../../outputs/textures/floor_balcony_N.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "floor_balcony_D",
-            "uri" : "../../../textures/floor_balcony_D.jpg"
+            "uri" : "../../../../outputs/textures/floor_balcony_D.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "floor_balcony_D",
-            "uri" : "../../../textures/floor_balcony_D-1.jpg"
+            "uri" : "../../../../outputs/textures/floor_balcony_D-1.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "Image",
-            "uri" : "../../../textures/Image-4.jpg"
+            "uri" : "../../../../outputs/textures/Image-4.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "floor_bath_N",
-            "uri" : "../../../textures/floor_bath_N.jpg"
+            "uri" : "../../../../outputs/textures/floor_bath_N.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "floor_bath_D",
-            "uri" : "../../../textures/floor_bath_D.jpg"
+            "uri" : "../../../../outputs/textures/floor_bath_D.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "Image",
-            "uri" : "../../../textures/Image-5.jpg"
+            "uri" : "../../../../outputs/textures/Image-5.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "floor_room_N",
-            "uri" : "../../../textures/floor_room_N.jpg"
+            "uri" : "../../../../outputs/textures/floor_room_N.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "floor_room_D",
-            "uri" : "../../../textures/floor_room_D.jpg"
+            "uri" : "../../../../outputs/textures/floor_room_D.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Image",
+            "uri" : "../../../../outputs/textures/Image-6.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "105_polished plaster painted wall texture-seamless",
+            "uri" : "../../../../outputs/textures/105_polished%20plaster%20painted%20wall%20texture-seamless.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Image",
+            "uri" : "../../../../outputs/textures/Image-7.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "47_Rhino marble floor tile texture-seamless",
+            "uri" : "../../../../outputs/textures/47_Rhino%20marble%20floor%20tile%20texture-seamless.jpg"
         }
     ],
     "accessors" : [
@@ -12003,6 +12313,36 @@
         },
         {
             "componentType" : 5126,
+            "count" : 124,
+            "max" : [
+                534.3701171875,
+                242.00003051757812,
+                563.9998779296875
+            ],
+            "min" : [
+                -589.2398681640625,
+                1.999975323677063,
+                -564.0001220703125
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 124,
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 124,
+            "type" : "VEC2"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 144,
+            "type" : "SCALAR"
+        },
+        {
+            "componentType" : 5126,
             "count" : 20,
             "max" : [
                 366.7601318359375,
@@ -12775,6 +13115,96 @@
             "componentType" : 5123,
             "count" : 156,
             "type" : "SCALAR"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 964,
+            "max" : [
+                567.5001220703125,
+                242.00003051757812,
+                548.9998779296875
+            ],
+            "min" : [
+                -574.10986328125,
+                3.9999759197235107,
+                -549.0001220703125
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 964,
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 964,
+            "type" : "VEC2"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 1068,
+            "type" : "SCALAR"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 102,
+            "max" : [
+                533.360107421875,
+                242,
+                77.38990020751953
+            ],
+            "min" : [
+                374.360107421875,
+                3.9999966621398926,
+                -142.2401123046875
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 102,
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 102,
+            "type" : "VEC2"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 108,
+            "type" : "SCALAR"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 392,
+            "max" : [
+                366.7601318359375,
+                242.00001525878906,
+                -60.5201301574707
+            ],
+            "min" : [
+                -574.0299072265625,
+                4.000002861022949,
+                -296.0001220703125
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 392,
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 392,
+            "type" : "VEC2"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 432,
+            "type" : "SCALAR"
         }
     ],
     "bufferViews" : [
@@ -13370,133 +13800,153 @@
         },
         {
             "buffer" : 0,
-            "byteLength" : 331,
+            "byteLength" : 793,
             "byteOffset" : 1029408
         },
         {
             "buffer" : 0,
+            "byteLength" : 331,
+            "byteOffset" : 1030204
+        },
+        {
+            "buffer" : 0,
             "byteLength" : 635,
-            "byteOffset" : 1029740
+            "byteOffset" : 1030536
         },
         {
             "buffer" : 0,
             "byteLength" : 391,
-            "byteOffset" : 1030376
+            "byteOffset" : 1031172
         },
         {
             "buffer" : 0,
             "byteLength" : 694,
-            "byteOffset" : 1030768
+            "byteOffset" : 1031564
         },
         {
             "buffer" : 0,
             "byteLength" : 498,
-            "byteOffset" : 1031464
+            "byteOffset" : 1032260
         },
         {
             "buffer" : 0,
             "byteLength" : 747,
-            "byteOffset" : 1031964
+            "byteOffset" : 1032760
         },
         {
             "buffer" : 0,
             "byteLength" : 343,
-            "byteOffset" : 1032712
+            "byteOffset" : 1033508
         },
         {
             "buffer" : 0,
             "byteLength" : 572,
-            "byteOffset" : 1033056
+            "byteOffset" : 1033852
         },
         {
             "buffer" : 0,
             "byteLength" : 388,
-            "byteOffset" : 1033628
+            "byteOffset" : 1034424
         },
         {
             "buffer" : 0,
             "byteLength" : 635,
-            "byteOffset" : 1034016
+            "byteOffset" : 1034812
         },
         {
             "buffer" : 0,
             "byteLength" : 204,
-            "byteOffset" : 1034652
+            "byteOffset" : 1035448
         },
         {
             "buffer" : 0,
             "byteLength" : 305,
-            "byteOffset" : 1034856
+            "byteOffset" : 1035652
         },
         {
             "buffer" : 0,
             "byteLength" : 807,
-            "byteOffset" : 1035164
+            "byteOffset" : 1035960
         },
         {
             "buffer" : 0,
             "byteLength" : 1118,
-            "byteOffset" : 1035972
+            "byteOffset" : 1036768
         },
         {
             "buffer" : 0,
             "byteLength" : 345,
-            "byteOffset" : 1037092
+            "byteOffset" : 1037888
         },
         {
             "buffer" : 0,
             "byteLength" : 557,
-            "byteOffset" : 1037440
+            "byteOffset" : 1038236
         },
         {
             "buffer" : 0,
             "byteLength" : 300,
-            "byteOffset" : 1038000
+            "byteOffset" : 1038796
         },
         {
             "buffer" : 0,
             "byteLength" : 534,
-            "byteOffset" : 1038300
+            "byteOffset" : 1039096
         },
         {
             "buffer" : 0,
             "byteLength" : 199,
-            "byteOffset" : 1038836
+            "byteOffset" : 1039632
         },
         {
             "buffer" : 0,
             "byteLength" : 291,
-            "byteOffset" : 1039036
+            "byteOffset" : 1039832
         },
         {
             "buffer" : 0,
             "byteLength" : 277,
-            "byteOffset" : 1039328
+            "byteOffset" : 1040124
         },
         {
             "buffer" : 0,
             "byteLength" : 430,
-            "byteOffset" : 1039608
+            "byteOffset" : 1040404
         },
         {
             "buffer" : 0,
             "byteLength" : 322,
-            "byteOffset" : 1040040
+            "byteOffset" : 1040836
         },
         {
             "buffer" : 0,
             "byteLength" : 518,
-            "byteOffset" : 1040364
+            "byteOffset" : 1041160
         },
         {
             "buffer" : 0,
             "byteLength" : 461,
-            "byteOffset" : 1040884
+            "byteOffset" : 1041680
         },
         {
             "buffer" : 0,
             "byteLength" : 744,
-            "byteOffset" : 1041348
+            "byteOffset" : 1042144
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 4063,
+            "byteOffset" : 1042888
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 828,
+            "byteOffset" : 1046952
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2016,
+            "byteOffset" : 1047780
         }
     ],
     "samplers" : [
@@ -13507,7 +13957,7 @@
     ],
     "buffers" : [
         {
-            "byteLength" : 1042092,
+            "byteLength" : 1049796,
             "uri" : "19931_17493_0.bin"
         }
     ]
